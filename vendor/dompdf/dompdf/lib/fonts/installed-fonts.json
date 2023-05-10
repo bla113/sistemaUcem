@@ -1,0 +1,11 @@
+{
+    "source sans pro": {
+        "300_italic": "C:\\laragon\\www\\Lubrimovil_v1\\vendor\\dompdf\\dompdf\/lib\/fonts\/source_sans_pro_300_italic_c7348df81e49066b772a98ae20e45811",
+        "italic": "C:\\laragon\\www\\Lubrimovil_v1\\vendor\\dompdf\\dompdf\/lib\/fonts\/source_sans_pro_italic_27672a92dcedb2218abd2dadee4fe950",
+        "600_italic": "C:\\laragon\\www\\Lubrimovil_v1\\vendor\\dompdf\\dompdf\/lib\/fonts\/source_sans_pro_600_italic_ef3fecfa74b416f01e1908b6dca4e4a4",
+        "300": "C:\\laragon\\www\\Lubrimovil_v1\\vendor\\dompdf\\dompdf\/lib\/fonts\/source_sans_pro_300_dbbdd64c03e29f61c9033b77e28cbe3e",
+        "normal": "C:\\laragon\\www\\Lubrimovil_v1\\vendor\\dompdf\\dompdf\/lib\/fonts\/source_sans_pro_normal_a457a0c6f86469b4a65db96256674d7c",
+        "600": "C:\\laragon\\www\\Lubrimovil_v1\\vendor\\dompdf\\dompdf\/lib\/fonts\/source_sans_pro_600_741f51d060f14ae29812749220df3ee3",
+        "bold": "source_sans_pro_bold_cc1ea6f6b63a94074b2e903a95fedc64"
+    }
+}
